@@ -1,4 +1,4 @@
-# Belajar Typescript
+# Belajar Typescript (typescript-satu)
 
 TypeScript memiliki Implicit, Explicit, dan Ambient types, saya coba pakai Ambient types,
 Ambient types adalah tipe yang ditambahkan ke cakupan eksekusi global.
