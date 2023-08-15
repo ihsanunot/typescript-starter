@@ -118,9 +118,4 @@ Starts the app in production by first building the project with npm run build, a
 
 ---
 
-Testing pakai Jest 
-```
-npm install --save-dev jest
-```
-
 Done, terima kasih.
